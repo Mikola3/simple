@@ -1,3 +1,4 @@
+// some comment
 def GITHUB_REPOSITORY = "https://github.com/Mikola3/simple-java-maven-app.git"
 def GITHUB_BRANCH = "master"
 def Jobs = []
